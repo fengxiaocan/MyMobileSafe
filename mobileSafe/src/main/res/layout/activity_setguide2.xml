@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 设置向导界面1 -->
+
+    <TextView
+        style="@style/setretrieve_title_bg"
+        android:text="2.手机卡绑定" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="通过绑定SIM卡:\n下次重启手机如果发现SIM卡变化,就会发送报警短信"
+        android:textSize="20sp" />
+
+    <RelativeLayout
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/rl_retrieve_bind_sim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bt_main_setpassword_bg_selector">
+
+        <TextView
+            android:textColor="#ffffff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="12dp"
+            android:text="点击绑定/解绑SIM卡"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/iv_retrieve_bind_lock_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="10sp"
+            android:src="@drawable/unlock" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/step_2" />
+
+        <!-- 下一步 -->
+
+        <TextView
+            android:onClick="next"
+            style="@style/retrieve_setguide_next"
+            android:text="下一步" />
+        <!-- 上一步 -->
+
+        <TextView
+            android:onClick="pre"
+            style="@style/retrieve_setguide_pre"
+            android:text="上一步" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="18dp" >
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_normal_round" />
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_select_round" />
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_normal_round" />
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_normal_round" />
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_normal_round" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

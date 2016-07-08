@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mobilesafe</string>
+    <string name="accessibility_service_description">lockDog</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_device_admin_description">openDog</string>
+    <string name="sample_device_admin">mobilesafe</string>
+    <string name="mainactivity_title_textview">fengSuperMobileSafe</string>
+    <string name="mainactivity_show_textview">小灿超级手机卫士，时刻保护您的手机安全，http://www.google.com</string>
+    <!-- 检查病毒库版本 -->
+    <string name="update_viris_version_net">http://188.188.3.34:8080/myd/androidmobilesafeupdate/updateVersion.json</string>
+
+</resources>

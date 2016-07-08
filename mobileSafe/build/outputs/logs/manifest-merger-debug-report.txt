@@ -1,0 +1,518 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:2:1-335:12
+	package
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:5:5-33
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [MobileSafe:circleProgress_lib:unspecified] G:\AS\MobileSafe\mobileSafe\build\intermediates\exploded-aar\MobileSafe\circleProgress_lib\unspecified\AndroidManifest.xml:6:5-8:41
+MERGED from [MobileSafe:zhy_gestureLockView:unspecified] G:\AS\MobileSafe\mobileSafe\build\intermediates\exploded-aar\MobileSafe\zhy_gestureLockView\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [MobileSafe:stickylistview_library:unspecified] G:\AS\MobileSafe\mobileSafe\build\intermediates\exploded-aar\MobileSafe\stickylistview_library\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+		INJECTED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_TASKS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.INTERNET
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:24:22-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:29:5-80
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:29:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:30:5-72
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:30:22-69
+uses-permission#android.permission.READ_SMS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:32:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:33:5-70
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:33:22-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:34:22-78
+uses-permission#android.permission.WRITE_SMS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:35:5-68
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:35:22-65
+uses-permission#android.permission.SEND_SMS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:37:5-67
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:37:22-64
+uses-permission#android.permission.LOCATION_HARDWARE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:38:5-76
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:38:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:39:5-89
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:39:22-86
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:40:5-79
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:40:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:41:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:42:5-69
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:42:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:43:5-66
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:43:22-63
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:44:5-81
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:44:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:45:5-78
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:45:22-75
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:46:5-84
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:46:22-81
+uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:47:5-85
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:47:22-82
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:48:5-75
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:48:22-72
+uses-permission#android.permission.CLEAR_APP_CACHE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:49:5-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:49:22-71
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:50:5-73
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:50:22-70
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:51:5-72
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:51:22-69
+application
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:53:5-333:19
+	android:label
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:57:9-41
+	android:allowBackup
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:55:9-35
+	android:icon
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:56:9-45
+	android:theme
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:58:9-40
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:54:9-37
+activity#com.mob.tools.MobUIShell
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:61:9-82:20
+	android:screenOrientation
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:64:13-49
+	android:windowSoftInputMode
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:66:13-67
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:63:13-74
+	android:theme
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:65:13-72
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:62:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:67:13-74:29
+data
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:68:17-59
+	android:scheme
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:68:23-56
+action#android.intent.action.VIEW
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:70:25-66
+category#android.intent.category.BROWSABLE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:72:17-78
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:72:27-75
+category#android.intent.category.DEFAULT
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:73:17-76
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:73:27-73
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:77:13-81:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:78:17-92
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:78:25-89
+activity#com.evil.mobilesafe.wxapi.WXEntryActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:85:9-90:75
+	android:screenOrientation
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:89:13-49
+	android:exported
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:88:13-36
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:87:13-74
+	android:theme
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:90:13-72
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:86:13-50
+activity#com.evil.mobilesafe.yxapi.YXEntryActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:93:9-98:75
+	android:screenOrientation
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:97:13-49
+	android:exported
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:96:13-36
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:95:13-74
+	android:theme
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:98:13-72
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:94:13-50
+activity#com.evil.mobilesafe.apshare.ShareEntryActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:101:9-105:75
+	android:exported
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:104:13-36
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:103:13-74
+	android:theme
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:105:13-72
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:102:13-55
+activity#com.evil.mobilesafe.activity.SplashActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:111:9-120:20
+	android:screenOrientation
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:113:13-49
+	android:theme
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:114:13-44
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:112:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:115:13-119:29
+action#android.intent.action.MAIN
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:116:17-69
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:116:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:118:17-77
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:118:27-74
+activity#com.evil.mobilesafe.activity.MainActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:122:9-128:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:122:19-56
+intent-filter#android.intent.category.DEFAULT+com.evil.mobilesafe.home
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:123:13-127:29
+action#com.evil.mobilesafe.home
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:124:17-67
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:124:25-64
+activity#com.evil.mobilesafe.activity.SettingActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:130:9-131:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:130:19-59
+activity#com.evil.mobilesafe.activity.SetGuide1Activity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:133:9-134:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:133:19-61
+activity#com.evil.mobilesafe.activity.RetrieveActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:136:9-137:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:136:19-60
+activity#com.evil.mobilesafe.activity.SetGuide2Activity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:139:9-140:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:139:19-61
+activity#com.evil.mobilesafe.activity.SetGuide3Activity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:142:9-143:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:142:19-61
+activity#com.evil.mobilesafe.activity.SetGuide4Activity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:145:9-146:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:145:19-61
+activity#com.evil.mobilesafe.activity.SetGuide5Activity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:148:9-149:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:148:19-61
+activity#com.evil.mobilesafe.activity.ContactsActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:151:9-154:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:153:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:152:13-54
+activity#com.evil.mobilesafe.activity.CallLogActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:156:9-159:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:158:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:157:13-53
+activity#com.evil.mobilesafe.activity.SmsLogActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:161:9-164:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:163:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:162:13-52
+activity#com.evil.mobilesafe.activity.InterceptActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:166:9-169:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:168:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:167:13-55
+activity#com.evil.mobilesafe.activity.AddBlackNumActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:171:9-174:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:173:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:172:13-57
+activity#com.evil.mobilesafe.activity.CommonActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:176:9-177:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:176:19-58
+activity#com.evil.mobilesafe.activity.BelongQueryActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:179:9-182:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:181:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:180:13-57
+activity#com.evil.mobilesafe.activity.AppManagerActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:184:9-187:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:186:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:185:13-56
+activity#com.evil.mobilesafe.activity.TaskManagerActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:189:9-192:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:191:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:190:13-57
+activity#com.evil.mobilesafe.activity.CommonNumberQueryActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:194:9-197:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:196:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:195:13-63
+activity#com.evil.mobilesafe.activity.KillVirusActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:199:9-202:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:201:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:200:13-55
+activity#com.evil.mobilesafe.activity.CacheClearActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:204:9-207:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:206:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:205:13-56
+activity#com.evil.mobilesafe.activity.FluxStatusActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:209:9-212:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:211:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:210:13-56
+activity#com.evil.mobilesafe.activity.AppLockActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:214:9-217:20
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:216:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:215:13-53
+activity#com.evil.mobilesafe.activity.AppLockPasswordActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:219:9-224:20
+	android:screenOrientation
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:223:13-49
+	android:launchMode
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:222:13-48
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:221:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:220:13-61
+activity#com.evil.mobilesafe.activity.SetAppLockPasswordActivity
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:226:9-231:20
+	android:screenOrientation
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:230:13-49
+	android:launchMode
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:229:13-48
+	android:configChanges
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:228:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:227:13-64
+service#com.evil.mobilesafe.service.InterceptService
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:235:9-236:19
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:235:18-58
+service#com.evil.mobilesafe.service.BelongAddressService
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:238:9-239:19
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:238:18-62
+service#com.evil.mobilesafe.service.LockScreenClearService
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:241:9-242:19
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:241:18-64
+service#com.evil.mobilesafe.service.MyAppWidgetService
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:244:9-245:19
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:244:18-60
+service#com.evil.mobilesafe.service.ApplockDogService
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:247:9-248:19
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:247:18-59
+service#com.evil.mobilesafe.service.DogAccessibilityService
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:264:9-275:19
+	android:label
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:266:13-35
+	android:permission
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:267:13-79
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:265:13-60
+intent-filter#android.accessibilityservice.AccessibilityService
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:268:13-270:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:269:17-92
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:269:25-89
+meta-data#android.accessibilityservice
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:272:13-274:72
+	android:resource
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:274:17-69
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:273:17-60
+receiver#com.evil.mobilesafe.receiver.SmsBroadcastReceiver
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:281:9-285:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:281:19-64
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:282:13-284:29
+	android:priority
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:282:28-51
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:283:17-82
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:283:25-79
+receiver#com.evil.mobilesafe.receiver.BootSimChangeReceiver
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:288:9-292:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:288:19-65
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:289:13-291:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:290:17-79
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:290:25-76
+receiver#com.evil.mobilesafe.receiver.FluxBroadcastReceiver
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:294:9-300:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:294:19-65
+intent-filter#android.intent.action.ACTION_SHUTDOWN
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:295:13-299:29
+action#android.intent.action.ACTION_SHUTDOWN
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:298:17-80
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:298:25-77
+receiver#com.evil.mobilesafe.receiver.ClearTaskReceiver
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:302:9-306:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:302:19-61
+intent-filter#com.evil.cleartask
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:303:13-305:29
+action#com.evil.cleartask
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:304:17-61
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:304:25-58
+receiver#com.evil.mobilesafe.receiver.DeviceAdminSample
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:309:9-321:20
+	android:label
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:312:13-56
+	android:permission
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:313:13-70
+	android:description
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:311:13-74
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:310:13-74
+meta-data#android.app.device_admin
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:314:13-316:63
+	android:resource
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:316:17-60
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:315:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:318:13-320:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:319:17-82
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:319:25-79
+receiver#com.evil.mobilesafe.provider.MyAppWidgetProvider
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:324:9-332:20
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:324:19-82
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:325:13-327:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:326:17-84
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:326:25-81
+meta-data#android.appwidget.provider
+ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:329:13-331:65
+	android:resource
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:331:17-62
+	android:name
+		ADDED from G:\AS\MobileSafe\mobileSafe\src\main\AndroidManifest.xml:330:17-58

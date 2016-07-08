@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_smslog.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_smslog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intercept_input_or_update.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_intercept_input_or_update.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\belong_address_toast.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\belong_address_toast.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cacheclear.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_cacheclear.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appmanager.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_appmanager.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setpassword_applogdog.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setpassword_applogdog.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intercept_input_or_update.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_intercept_input_or_update.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applogdog.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_applogdog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_number_query.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_common_number_query.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_spaceinfo_progress.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_spaceinfo_progress.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_contacts_content.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_contacts_content.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\menu_popupwindow_intercept.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\menu_popupwindow_intercept.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_common.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\view_applock_tab.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\view_applock_tab.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\setting_item_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_appmanager_listview_info.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_appmanager_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_killvirus.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_killvirus.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_killvirus_listview_scanshow.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_killvirus_listview_scanshow.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\input_password_dialog.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\input_password_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appmanager.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_appmanager.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_editpage.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\setting_item_view.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\setting_item_view.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_belong_query.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_belong_query.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_flux_listview_info.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_flux_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fluxstatus.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_fluxstatus.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_intercept_contacts_add.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\dialog_intercept_contacts_add.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_main_gv_view.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_main_gv_view.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\process_widget.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calllog.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_calllog.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_calllog_listview_info.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_calllog_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_smslog.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_smslog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide5.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide5.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_taskmanager_listview_info.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_taskmanager_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\menu_popupwindow_intercept.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\menu_popupwindow_intercept.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\setting_main.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\setting_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_belong_query.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_belong_query.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retrieve.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_retrieve.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_main_gv_view.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_main_gv_view.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_belong_address_style.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\dialog_belong_address_style.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_taskmanager.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_taskmanager.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_calllog_listview_info.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_calllog_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_applock_listview_data.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_applock_listview_data.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_cacheclear_info.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_cacheclear_info.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applock.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_applock.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\belong_address_toast.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\belong_address_toast.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list_item.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide3.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide3.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_smslog_listview_info.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_smslog_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applogdog.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_applogdog.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_inc_image_layout.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_appmanager_listview_info.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_appmanager_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_taskmanager_listview_info.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_taskmanager_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\view_applock_tab.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\view_applock_tab.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_inc_image_layout.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_at_layout.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide2.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide2.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calllog.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_calllog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\set_password_dialog.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\set_password_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_belong_dialog_style_listview.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_belong_dialog_style_listview.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intercept.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_intercept.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide1.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide1.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_killvirus_listview_scanshow.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_killvirus_listview_scanshow.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide2.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide2.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\setting_main.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\setting_main.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_editpage.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_common.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\popup_appmanager.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\popup_appmanager.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_intercept_list.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_intercept_list.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_at_layout.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_spaceinfo_progress.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_spaceinfo_progress.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fluxstatus.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_fluxstatus.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applock.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_applock.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide4.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide4.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retrieve.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_retrieve.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intercept.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_intercept.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_contacts_content.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_contacts_content.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_flux_listview_info.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_flux_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_applock_listview_data.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_applock_listview_data.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_intercept_list.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_intercept_list.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide1.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide1.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\input_password_dialog.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\input_password_dialog.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\process_widget.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\popup_appmanager.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\popup_appmanager.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide4.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide4.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_intercept_contacts_add.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\dialog_intercept_contacts_add.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide5.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide5.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_smslog_listview_info.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_smslog_listview_info.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list_item.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cacheclear.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_cacheclear.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setpassword_applogdog.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setpassword_applogdog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_killvirus.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_killvirus.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_belong_dialog_style_listview.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_belong_dialog_style_listview.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\set_password_dialog.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\set_password_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_actionbar.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setguide3.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_setguide3.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\item_cacheclear_info.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\item_cacheclear_info.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_taskmanager.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_taskmanager.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_belong_address_style.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\dialog_belong_address_style.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_actionbar.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_number_query.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\layout\\activity_common_number_query.xml"
+    }
+]

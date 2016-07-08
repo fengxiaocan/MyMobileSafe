@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/setting_title_bg"
+        android:text="软件管家" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="5dp"
+            android:text="内存: "
+            android:textSize="18sp" />
+
+        <com.evil.mobilesafe.view.SpaceInfoProgress
+            android:id="@+id/sip_appmanager_rom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="5dp"
+            android:text="SD卡:"
+            android:textSize="18sp" />
+
+        <com.evil.mobilesafe.view.SpaceInfoProgress
+            android:id="@+id/sip_appmanager_sd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ListView
+            android:id="@+id/lv_appmanager_appinfo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" >
+        </ListView>
+
+        <TextView
+           
+            android:textColor="#ffffff"
+            android:id="@+id/tv_appmanager_lv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8C8A8C"
+            android:padding="5dp"
+            android:text="用户程序(0个)"
+            android:textSize="18sp" />
+
+        <ProgressBar
+            android:id="@+id/pb_appmanager"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:indeterminateDrawable="@drawable/progressbar_loading" />
+
+    </RelativeLayout>
+
+</LinearLayout>

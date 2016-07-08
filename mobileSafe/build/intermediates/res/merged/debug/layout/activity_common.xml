@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:evil="http://schemas.android.com/apk/res/com.evil.mobilesafe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/setting_title_bg"
+        android:text="常用工具" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <com.evil.mobilesafe.view.SettingItemView
+                android:id="@+id/siv_common_belong_query"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                evil:sivBg="first"
+                evil:sivImage="false"
+                evil:sivText="号码归属地查询" />
+
+            <com.evil.mobilesafe.view.SettingItemView
+                android:id="@+id/siv_common_number_query"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                evil:sivBg="end"
+                evil:sivImage="false"
+                evil:sivText="常用号码查询" />
+
+            <com.evil.mobilesafe.view.SettingItemView
+                android:id="@+id/siv_common_sms_copy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                evil:sivBg="first"
+                evil:sivImage="false"
+                evil:sivText="短信备份" />
+
+            <com.evil.mobilesafe.view.SettingItemView
+                android:id="@+id/siv_common_sms_restore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                evil:sivBg="end"
+                evil:sivImage="false"
+                evil:sivText="短信还原" />
+
+            <com.evil.mobilesafe.view.SettingItemView
+                android:id="@+id/siv_common_app_lock"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                evil:sivBg="first"
+                evil:sivImage="false"
+                evil:sivText="程序锁管理" />
+
+            <com.evil.mobilesafe.view.SettingItemView
+                android:id="@+id/siv_common_open_dog1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                evil:sivBg="middle"
+                evil:sivImage="true"
+                evil:sivText="开启电子狗服务1" />
+
+            <com.evil.mobilesafe.view.SettingItemView
+                android:id="@+id/siv_common_open_dog2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                evil:sivBg="end"
+                evil:sivImage="true"
+                evil:sivText="开启电子狗服务2" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

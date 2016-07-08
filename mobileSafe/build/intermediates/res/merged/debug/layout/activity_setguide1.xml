@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 设置向导界面1 -->
+
+    <TextView
+        style="@style/setretrieve_title_bg"
+        android:text="1.欢迎使用手机防盗" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="您的手机防盗卫士:"
+        android:textSize="20sp" />
+
+    <TextView
+        style="@style/retrieve_set_desc"
+        android:text="SIM卡变更报警" />
+
+    <TextView
+        style="@style/retrieve_set_desc"
+        android:text="GPS追踪" />
+
+    <TextView
+        style="@style/retrieve_set_desc"
+        android:text="远程锁屏" />
+
+    <TextView
+        style="@style/retrieve_set_desc"
+        android:text="远程销毁数据" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/step_1" />
+
+        <!-- 下一步 -->
+
+        <TextView
+			
+            android:onClick="next"
+            style="@style/retrieve_setguide_next"
+            android:text="下一步" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="18dp" >
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_select_round" />
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_normal_round" />
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_normal_round" />
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_normal_round" />
+
+            <ImageView
+                android:layout_marginRight="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/retrieve_setguide_normal_round" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

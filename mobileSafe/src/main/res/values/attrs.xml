@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SettingItemView">
+
+        <!-- 文本 -->
+        <attr name="sivText" format="string" />
+        <!-- 设置图片 -->
+        <attr name="sivImage" format="boolean" />
+        <!-- 设置背景 -->
+        <attr name="sivBg">
+            <enum name="first" value="0" />
+            <enum name="middle" value="1" />
+            <enum name="end" value="2" />
+        </attr>
+    </declare-styleable>
+
+</resources>

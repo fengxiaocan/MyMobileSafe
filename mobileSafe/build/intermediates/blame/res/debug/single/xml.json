@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\xml\\accessibility_service_config.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\xml\\process_widget_update.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\xml\\process_widget_update.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\xml\\accessibility_service_config.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\xml\\process_widget_update.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\xml\\process_widget_update.xml"
+    }
+]

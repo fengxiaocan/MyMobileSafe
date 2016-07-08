@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\setguide_prevactivity_exit.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\setguide_prevactivity_exit.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\setguide_prevactivity_exit.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\setguide_prevactivity_exit.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\setguide_prevactivity_into.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\setguide_prevactivity_into.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\setguide_nextvactivity_exit.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\setguide_nextvactivity_exit.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\setguide_nextvactivity_into.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\setguide_nextvactivity_into.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\setguide_nextvactivity_exit.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\setguide_nextvactivity_exit.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\setguide_prevactivity_into.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\setguide_prevactivity_into.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\anim\\setguide_nextvactivity_into.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\anim\\setguide_nextvactivity_into.xml"
+    }
+]

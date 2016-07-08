@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.evil.mobilesafe"
+    android:versionCode="7"
+    android:versionName="水星版7.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="17" />
+
+    <!-- 第三方分享权限 start -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!-- 蓝牙分享所需的权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <!-- 第三方分享权限 end -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.LOCATION_HARDWARE" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE" />
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+    <uses-permission android:name="android.permission.WRITE_CALL_LOG" />
+    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+
+    <application
+        name="com.evil.mobilesafe.MyApplication"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- 第三方 app start -->
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <intent-filter>
+                <data android:scheme="tencent100371282" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- 调用新浪原生SDK，需要注册的回调activity -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- 微信分享回调 -->
+        <activity
+            android:name="com.evil.mobilesafe.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- 易信分享回调 -->
+        <activity
+            android:name="com.evil.mobilesafe.yxapi.YXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- 支付宝分享回调 -->
+        <activity
+            android:name="com.evil.mobilesafe.apshare.ShareEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- 第三方 app start  end -->
+
+
+        <!-- 启动界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 主界面 -->
+        <activity android:name="com.evil.mobilesafe.activity.MainActivity" >
+            <intent-filter>
+                <action android:name="com.evil.mobilesafe.home" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 设置中心 -->
+        <activity android:name="com.evil.mobilesafe.activity.SettingActivity" >
+        </activity>
+        <!-- 设置向导界面1 -->
+        <activity android:name="com.evil.mobilesafe.activity.SetGuide1Activity" >
+        </activity>
+        <!-- 手机防盗界面 -->
+        <activity android:name="com.evil.mobilesafe.activity.RetrieveActivity" >
+        </activity>
+        <!-- 设置向导2 -->
+        <activity android:name="com.evil.mobilesafe.activity.SetGuide2Activity" >
+        </activity>
+        <!-- 设置向导3 -->
+        <activity android:name="com.evil.mobilesafe.activity.SetGuide3Activity" >
+        </activity>
+        <!-- 设置向导4 -->
+        <activity android:name="com.evil.mobilesafe.activity.SetGuide4Activity" >
+        </activity>
+        <!-- 设置向导5 -->
+        <activity android:name="com.evil.mobilesafe.activity.SetGuide5Activity" >
+        </activity>
+        <!-- 手机联系人界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.ContactsActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 通话记录界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.CallLogActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 短信记录界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.SmsLogActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 手机黑名单界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.InterceptActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 添加黑名单界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.AddBlackNumActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 常用工具界面 -->
+        <activity android:name="com.evil.mobilesafe.activity.CommonActivity" >
+        </activity>
+        <!-- 号码归属地查询界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.BelongQueryActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 软件管家界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.AppManagerActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 进程管理界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.TaskManagerActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 常用号码归属地查询界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.CommonNumberQueryActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 手机杀毒界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.KillVirusActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 缓存清理界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.CacheClearActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 流量统计界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.FluxStatusActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 流量统计界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.AppLockActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" >
+        </activity>
+        <!-- 看门狗口令界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.AppLockPasswordActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 设置看门狗口令界面 -->
+        <activity
+            android:name="com.evil.mobilesafe.activity.SetAppLockPasswordActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <!-- !!!!!!!!!!!!!!!!!!!!!!!service!!!!!!!!!!!!!!!!!!!!!!!!! -->
+
+        <service android:name="com.evil.mobilesafe.service.InterceptService" >
+        </service>
+        <!-- 来去电归属地显示服务 -->
+        <service android:name="com.evil.mobilesafe.service.BelongAddressService" >
+        </service>
+        <!-- 锁屏进程清理服务 -->
+        <service android:name="com.evil.mobilesafe.service.LockScreenClearService" >
+        </service>
+        <!-- 桌面进程widget清理服务 -->
+        <service android:name="com.evil.mobilesafe.service.MyAppWidgetService" >
+        </service>
+        <!-- 电子狗监控服务线程版 -->
+        <service android:name="com.evil.mobilesafe.service.ApplockDogService" >
+        </service>
+        <!-- 电子狗监控服务辅助版 -->
+        <!-- <SERVICE -->
+        <!-- ANDROID:NAME=".SERVICE.DOGACCESSIBILITYSERVICE" -->
+        <!-- ANDROID:LABEL="小灿手机卫士" > -->
+        <!-- <INTENT-FILTER> -->
+        <!-- <ACTION ANDROID:NAME="ANDROID.ACCESSIBILITYSERVICE.ACCESSIBILITYSERVICE" /> -->
+        <!-- </INTENT-FILTER> -->
+        <!-- 配置数据 -->
+        <!-- <META-DATA -->
+        <!-- ANDROID:NAME="ANDROID.ACCESSIBILITYSERVICE" -->
+        <!-- ANDROID:RESOURCE="@XML/ACCESSIBILITY_SERVICE_CONFIG" /> -->
+        <!-- </SERVICE> -->
+
+
+        <!-- 看门狗Accessibility版本 -->
+        <service
+            android:name="com.evil.mobilesafe.service.DogAccessibilityService"
+            android:label="小灿手机卫士"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+            <!-- 配置数据 -->
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/accessibility_service_config" />
+        </service>
+
+        <!-- !!!!!!!!!!!!!!!!!!!!!!!receive!!!!!!!!!!!!!!!!!!!!!!!!! -->
+
+
+        <!-- 防盗短信服务 -->
+        <receiver android:name="com.evil.mobilesafe.receiver.SmsBroadcastReceiver" >
+            <intent-filter android:priority="1000" >
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 开机检测sms卡 -->
+        <receiver android:name="com.evil.mobilesafe.receiver.BootSimChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <!-- 关机监控流量 -->
+        <receiver android:name="com.evil.mobilesafe.receiver.FluxBroadcastReceiver" >
+            <intent-filter>
+
+                <!-- 关机广播 -->
+                <action android:name="android.intent.action.ACTION_SHUTDOWN" />
+            </intent-filter>
+        </receiver>
+        <!-- 清理进程的广播 -->
+        <receiver android:name="com.evil.mobilesafe.receiver.ClearTaskReceiver" >
+            <intent-filter>
+                <action android:name="com.evil.cleartask" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 开启设备管理器 -->
+        <receiver
+            android:name="com.evil.mobilesafe.receiver.DeviceAdminSample"
+            android:description="@string/sample_device_admin_description"
+            android:label="@string/sample_device_admin"
+            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+            <meta-data
+                android:name="android.app.device_admin"
+                android:resource="@xml/device_admin_sample" />
+
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- widget -->
+        <receiver android:name="com.evil.mobilesafe.provider.MyAppWidgetProvider" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/process_widget_update" />
+        </receiver>
+    </application>
+
+</manifest>

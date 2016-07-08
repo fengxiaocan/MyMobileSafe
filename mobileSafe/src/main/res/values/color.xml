@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="green">#9CFFCE</color>
+    <color name="white">#ffffff</color>
+    <color name="textview_bg">#00ffffff</color>
+    <color name="textColorPrimary">#ffffffff</color>
+    <color name="textColorPrimaryDark">#ff000000</color>
+
+</resources>

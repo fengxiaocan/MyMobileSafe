@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_applock_data"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/iv_applock_item_appicon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:src="@drawable/evil" />
+
+    <TextView
+        android:id="@+id/tv_applock_item_appname"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:text="安装程序包名"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center_vertical"
+        android:background="#000000" />
+
+    <ImageView
+        android:id="@+id/iv_applock_lock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/app_lock_ic_locked" />
+
+</LinearLayout>

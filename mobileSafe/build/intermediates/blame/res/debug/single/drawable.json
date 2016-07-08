@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\skyblue_platform_list_item.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\settingcentre_bg_end_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\settingcentre_bg_end_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\gv_main_bg_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\gv_main_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_item_bg.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\progress_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_textcolor_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\function_greenbutton_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\skyblue_platform_list_item_selected.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_bg_shape_press.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\setting_bg_shape_press.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\et_intercept_bg_update.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\et_intercept_bg_update.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_clear_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\iv_clear_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_bg_shape_press.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\setting_bg_shape_press.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_applock_right_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\tv_applock_right_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\intercept_list_delete_icon_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\intercept_list_delete_icon_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\classic_platform_corners_bg.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_main_setpassword_bg_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\bt_main_setpassword_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_bg_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\setting_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_applock_left_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\tv_applock_left_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\retrieve_setguide_normal_round.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\retrieve_setguide_normal_round.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_item_bg.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\progress_item_bg.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\retrieve_setguide_select_round.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\retrieve_setguide_select_round.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\item_retrieve_bg_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\item_retrieve_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_loading.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\progressbar_loading.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_applock_right_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\tv_applock_right_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_loading.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\progressbar_loading.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\retrieve_setguide_select_round.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\retrieve_setguide_select_round.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\skyblue_platform_list_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\settingcentre_bg_frist_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\settingcentre_bg_frist_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\et_intercept_bg_add.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\et_intercept_bg_add.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_bg_shape_normal.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\setting_bg_shape_normal.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\settingcentre_bg_end_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\settingcentre_bg_end_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\skyblue_platform_list_item.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_textcolor_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\function_greenbutton_textcolor_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\skyblue_platform_list_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_bg_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\setting_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\et_intercept_bg_add.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\et_intercept_bg_add.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_taskmanager.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\checkbox_taskmanager.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_taskmanager.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\checkbox_taskmanager.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\intercept_add_icon_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\intercept_add_icon_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\settingcentre_bg_frist_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\settingcentre_bg_frist_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\function_greenbutton_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\settingcentre_bg_middle_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\settingcentre_bg_middle_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_main_setpassword_bg_selector_cancle.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\bt_main_setpassword_bg_selector_cancle.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\skyblue_platform_list_item_selected.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\retrieve_setguide_normal_round.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\retrieve_setguide_normal_round.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_main_setpassword_bg_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\bt_main_setpassword_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_bg_shape_normal.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\setting_bg_shape_normal.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\function_greenbutton_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\gv_main_bg_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\gv_main_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_main_setpassword_bg_selector_cancle.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\bt_main_setpassword_bg_selector_cancle.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\et_intercept_bg_update.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\et_intercept_bg_update.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\intercept_add_icon_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\intercept_add_icon_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\intercept_list_delete_icon_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\intercept_list_delete_icon_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_applock_left_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\tv_applock_left_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_clear_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\iv_clear_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\classic_platform_corners_bg.xml",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\item_retrieve_bg_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\item_retrieve_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\settingcentre_bg_middle_selector.xml",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable\\settingcentre_bg_middle_selector.xml"
+    }
+]

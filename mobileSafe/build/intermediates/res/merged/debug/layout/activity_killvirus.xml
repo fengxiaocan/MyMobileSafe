@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res/com.evil.mobilesafe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#009900"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:text="手机杀毒"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" >
+
+            <!-- 扫描结果 -->
+
+            <RelativeLayout
+                android:id="@+id/rl_killvirus_scanresult"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/tv_killvirus_sanresult"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center_horizontal"
+                    android:text="您的手机很安全"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:id="@+id/bt_killvirus_anewscan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tv_killvirus_sanresult"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/bt_main_setpassword_bg_selector"
+                    android:padding="10dp"
+                    android:text="重新扫描"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+            <!-- 正在扫描中 -->
+
+            <RelativeLayout
+                android:id="@+id/rl_killvirus_scaning"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <com.github.lzyzsd.circleprogress.ArcProgress
+                    android:id="@+id/progress_killvirus_scaning"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="#0000"
+                    custom:arc_bottom_text="扫描中"
+                    custom:arc_bottom_text_size="15sp"
+                    custom:arc_progress="0"
+                    custom:arc_stroke_width="10dp"
+                    custom:arc_text_color="#ffffff" />
+
+                <TextView
+                    android:id="@+id/tv_killvirus_scaning_packagename"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/progress_killvirus_scaning"
+                    android:gravity="center_horizontal"
+                    android:text="com.evil.mobilesafe"
+                    android:textColor="#ffffff"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <!-- 扫描完成后或扫描开始 -->
+
+            <LinearLayout
+                android:id="@+id/ll_killvirus_scanend"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:id="@+id/iv_killvirus_scanend_left"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:id="@+id/iv_killvirus_scanend_right"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+
+    <!-- 扫描结果显示 -->
+
+    <ListView
+        android:id="@+id/lv_killvirus_scanresultshow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </ListView>
+
+</LinearLayout>

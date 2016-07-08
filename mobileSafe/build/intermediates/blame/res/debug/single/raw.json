@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\raw\\alarm.mp3",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\raw\\alarm.mp3"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\raw\\alarm.mp3",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\raw\\alarm.mp3"
+    }
+]

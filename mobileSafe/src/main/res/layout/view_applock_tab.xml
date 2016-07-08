@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#4EA1D3"
+    android:gravity="center" >
+
+    <TextView
+        android:id="@+id/tv_applock_left"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tv_applock_left_selector"
+        android:gravity="center"
+        android:text="未加锁"
+        android:textColor="@color/tv_applock_textcolor_seletor"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_applock_right"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tv_applock_right_selector"
+        android:gravity="center"
+        android:text="已加锁"
+        android:textColor="@color/tv_applock_textcolor_seletor"
+        android:textSize="16sp" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 按下 -->
+    <item android:state_selected="true" android:color="#ffffff"/>
+    <!-- 默认 -->
+    <item android:state_selected="false" android:color="#666666"/>
+
+</selector>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#489E51"
+    android:orientation="vertical"
+    android:padding="8dp" >
+
+    <TextView
+        android:id="@+id/tv_popupwindow_input_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/nl"
+        android:drawablePadding="10dp"
+        android:gravity="center"
+        android:text="手动输入添加"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_popupwindow_phone_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/pl"
+        android:drawablePadding="10dp"
+        android:gravity="center"
+        android:text="电话记录添加"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_popupwindow_sms_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ol"
+        android:drawablePadding="10dp"
+        android:gravity="center"
+        android:text="短信记录添加"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/tv_popupwindow_contacts_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ml"
+        android:drawablePadding="10dp"
+        android:gravity="center"
+        android:text="通信录添加"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+</LinearLayout>

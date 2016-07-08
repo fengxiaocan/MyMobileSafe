@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/pop_bg"
+    android:orientation="horizontal"
+    android:padding="5dp" >
+
+    <TextView
+        android:id="@+id/tv_popupwindow_uninstall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:drawableTop="@drawable/ic_uninstall"
+        android:gravity="center_horizontal"
+        android:text="卸载" />
+
+    <TextView
+        android:id="@+id/tv_popupwindow_open"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:drawableTop="@drawable/ic_open"
+        android:gravity="center_horizontal"
+        android:text="打开" />
+
+    <TextView
+        android:id="@+id/tv_popupwindow_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:drawableTop="@drawable/ic_share"
+        android:gravity="center_horizontal"
+        android:text="分享" />
+
+    <TextView
+        android:id="@+id/tv_popupwindow_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:drawableTop="@drawable/ic_info"
+        android:gravity="center_horizontal"
+        android:text="信息" />
+
+</LinearLayout>

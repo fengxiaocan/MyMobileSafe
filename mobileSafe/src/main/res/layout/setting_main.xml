@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:evil="http://schemas.android.com/apk/res/com.evil.mobilesafe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/setting_title_bg"
+        android:text="设置中心" />
+
+    <com.evil.mobilesafe.view.SettingItemView
+        android:id="@+id/siv_setting_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        evil:sivBg="first"
+        evil:sivImage="true"
+        evil:sivText="设置自动更新" />
+
+    <com.evil.mobilesafe.view.SettingItemView
+        android:id="@+id/siv_setting_intercept"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        evil:sivBg="end"
+        evil:sivImage="true"
+        evil:sivText="骚扰拦截设置" />
+
+    <com.evil.mobilesafe.view.SettingItemView
+        android:id="@+id/siv_setting_showArea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        evil:sivBg="first"
+        evil:sivImage="true"
+        evil:sivText="归属地显示设置" />
+
+    <com.evil.mobilesafe.view.SettingItemView
+        android:id="@+id/siv_setting_belong_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        evil:sivBg="end"
+        evil:sivImage="false"
+        evil:sivText="归属地风格设置" />
+
+</LinearLayout>

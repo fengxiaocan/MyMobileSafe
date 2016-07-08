@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:background="#00ccff" >
+
+        <TextView
+            android:id="@+id/tv_cacheclear_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="缓存清理"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+        <!-- 清理图标 -->
+
+        <ImageView
+            android:id="@+id/iv_cacheclear_clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/iv_clear_selector" />
+
+        <!-- 容器 -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_cacheclear_title"
+            android:layout_marginTop="15dip"
+            android:orientation="horizontal" >
+
+            <!-- 圆形的进度 -->
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <!-- 钥匙 -->
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/act_bg" />
+
+                <!-- 三个点 -->
+
+                <ImageView
+                    android:id="@+id/iv_cacheclear_points"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="7dip"
+                    android:layout_marginTop="6dip"
+                    android:src="@drawable/act_dian_03" />
+
+                <!-- 扇形 -->
+
+                <ImageView
+                    android:id="@+id/iv_cacheclear_scanning"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="6.5dip"
+                    android:layout_marginTop="7dip"
+                    android:src="@drawable/act_scanning_03" />
+            </FrameLayout>
+            <!-- 横向进度 -->
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 扫描的文字 -->
+
+                <TextView
+                    android:id="@+id/tv_cacheclear_scannningmess"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="5dip"
+                    android:layout_marginTop="10dip"
+                    android:singleLine="true"
+                    android:text="扫描：xxxxxxx"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp" />
+                <!-- 横向进度条 -->
+
+                <ProgressBar
+                    android:id="@+id/pb_cacheclear_progress"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <!-- 有缓存信息 -->
+
+        <ScrollView
+            android:id="@+id/sv_cacheclear_scroll"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fillViewport="true" >
+
+            <LinearLayout
+                android:id="@+id/ll_cacheclear_cachedatas"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </ScrollView>
+
+        <!-- 文字 -->
+
+        <TextView
+            android:id="@+id/tv_cacheclear_result_mess"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="没有缓存"
+            android:textColor="#0000ff"
+            android:textSize="20sp"
+            android:visibility="gone" />
+    </FrameLayout>
+
+</LinearLayout>

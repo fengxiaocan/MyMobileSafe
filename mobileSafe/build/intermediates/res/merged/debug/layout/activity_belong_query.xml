@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:evil="http://schemas.android.com/apk/res/com.evil.mobilesafe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/setting_title_bg"
+        android:text="号码归属地查询" />
+
+    <EditText
+        android:id="@+id/et_belong_query_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/et_intercept_bg_add"
+        android:hint="请输入要查询的号码"
+        android:inputType="phone"
+        android:padding="10dp"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_belong_query"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/bt_main_setpassword_bg_selector"
+        android:text="查询"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/tv_belong_query_show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="归属地:"
+        android:textSize="20sp" />
+
+</LinearLayout>

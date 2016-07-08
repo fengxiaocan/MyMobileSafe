@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:evil="http://schemas.android.com/apk/res/com.evil.mobilesafe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            style="@style/setting_title_bg"
+            android:text="进程管理" />
+
+        <ImageView
+            android:id="@+id/iv_taskmanager_clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/iv_clear_selector" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="5dp"
+            android:text="进程数:"
+            android:textSize="15sp" />
+
+        <com.evil.mobilesafe.view.SpaceInfoProgress
+            android:id="@+id/sip_taskmanager_tasknumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="5dp"
+            android:text="内    存:"
+            android:textSize="15sp" />
+
+        <com.evil.mobilesafe.view.SpaceInfoProgress
+            android:id="@+id/sip_taskmanager_memory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12" >
+
+        <!-- 第三方 显示数据标签 ，顶上去的效果 -->
+
+        <se.emilsjolander.stickylistheaders.StickyListHeadersListView
+            android:id="@+id/lv_appmanager_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" >
+        </se.emilsjolander.stickylistheaders.StickyListHeadersListView>
+
+        <ProgressBar
+            android:id="@+id/pb_taskmanager"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:indeterminateDrawable="@drawable/progressbar_loading" />
+
+        <SlidingDrawer
+            android:id="@+id/sd_taskmanager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:content="@+id/content_taskmanager"
+            android:handle="@+id/handle" >
+
+            <RelativeLayout
+                android:id="@+id/handle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/drawer_bg"
+                android:handle="@+id/handle" >
+
+                <ImageView
+                    android:id="@+id/iv_taskmanager_arrows1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/drawer_arrow_up" />
+
+                <ImageView
+                    android:id="@+id/iv_taskmanager_arrows2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/iv_taskmanager_arrows1"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/drawer_arrow_up" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/content_taskmanager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:text="进程管理设置"
+                    android:textSize="20sp" />
+
+                <com.evil.mobilesafe.view.SettingItemView
+                    android:id="@+id/siv_taskmanager_show_systemtask"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    evil:sivBg="first"
+                    evil:sivImage="true"
+                    evil:sivText="显示系统进程" />
+
+                <com.evil.mobilesafe.view.SettingItemView
+                    android:id="@+id/siv_taskmanager_automatic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    evil:sivBg="end"
+                    evil:sivImage="true"
+                    evil:sivText="锁屏自动清理" />
+            </LinearLayout>
+        </SlidingDrawer>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2" >
+
+        <Button
+            android:id="@+id/bt_taskmanager_all"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bt_main_setpassword_bg_selector"
+            android:text="全选" />
+
+        <Button
+            android:id="@+id/bt_taskmanager_reverse"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bt_main_setpassword_bg_selector_cancle"
+            android:text="反选" />
+    </LinearLayout>
+
+</LinearLayout>

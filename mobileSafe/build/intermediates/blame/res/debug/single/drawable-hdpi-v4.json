@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_pressed.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_pressed.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header_button_pressed.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\header_button_pressed.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clean_normal.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\clean_normal.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_normal.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_normal.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clean_normal.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\clean_normal.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dg_button_cancel_normal.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dg_button_cancel_normal.9.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sjfd.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\sjfd.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\antispam_report_button_press.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\antispam_report_button_press.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jcgl.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\jcgl.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rjgj.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\rjgj.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\evil.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\evil.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safe.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\safe.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_green.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_green.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\middle_normal.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\middle_normal.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\act_dian_03.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\act_dian_03.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\last_pressed.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\last_pressed.9.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\admin_inactivated.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\admin_inactivated.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function_greenbutton_normal.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\function_greenbutton_normal.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unsafe.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\unsafe.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_open.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_open.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\last_pressed.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\last_pressed.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ml.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ml.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\admin_activated.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\admin_activated.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cygj.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\cygj.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cygj.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\cygj.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\last_normal.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\last_normal.9.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\pl.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unlock.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\first_pressed.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\first_pressed.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\safe.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\safe.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\act_bg.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\act_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dg_btn_confirm_select.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dg_btn_confirm_select.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_blue.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_blue.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pop_bg.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\pop_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\antispam_report_button.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\antispam_report_button.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clean_pressed.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\clean_pressed.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_open.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_open.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\belong_location.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\belong_location.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\act_scanning_03.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\act_scanning_03.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\belong_location.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\belong_location.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\g.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_2.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_2.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\srlj.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\srlj.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_bg.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\drawer_bg.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_white.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_white.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_contact.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function_greenbutton_pressed.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\function_greenbutton_pressed.9.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_4.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_4.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jcgl.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\jcgl.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\middle_pressed.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\middle_pressed.9.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_contact.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_lock.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\app_lock.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\act_dian_03.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\act_dian_03.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pl.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\pl.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_blue.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_blue.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child_divider.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_orange.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_orange.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_1.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_1.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ml.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ml.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_pressed.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\tab_right_pressed.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dg_btn_confirm_normal.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dg_btn_confirm_normal.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sjsd.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\sjsd.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_3.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_3.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sjfd.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\sjfd.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_default.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\tab_right_default.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_selected.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_selected.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dg_button_cancel_select.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dg_button_cancel_select.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_arrow_down.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\drawer_arrow_down.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hcql.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\hcql.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\empty.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\empty.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_pressed.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\tab_left_pressed.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ol.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ol.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nl.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\nl.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rjgj.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\rjgj.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\admin_activated.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\admin_activated.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_add_pressed.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_menu_add_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_title_default_icon.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dialog_title_default_icon.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_green.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_green.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function_greenbutton_pressed.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\function_greenbutton_pressed.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_default.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\tab_left_default.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_5.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_5.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\srlj.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\srlj.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_1.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_1.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\middle_normal.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\middle_normal.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_pressed.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\tab_right_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lltj.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\lltj.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_lock_ic_locked.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\app_lock_ic_locked.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pop_bg.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\pop_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ol.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ol.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_lock_ic_locked.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\app_lock_ic_locked.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\act_bg.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\act_bg.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\last_normal.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\last_normal.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_4.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_4.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_add_normal.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_menu_add_normal.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_bkg.jpg",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\blue_bkg.jpg"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_uninstall.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_uninstall.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dg_button_cancel_normal.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dg_button_cancel_normal.9.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clean_pressed.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\clean_pressed.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_bg.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\drawer_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_gray.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_gray.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sjsd.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\sjsd.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_lock_ic_unlock.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\app_lock_ic_unlock.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hcql.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\hcql.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unsafe.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\unsafe.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\antispam_report_button.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\antispam_report_button.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nl.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\nl.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_arrow_up.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\drawer_arrow_up.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\pre.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_lock_ic_unlock.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\app_lock_ic_unlock.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_arrow_down.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\drawer_arrow_down.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\g.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_selected.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_selected.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\first_normal.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\first_normal.9.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lltj.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\lltj.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_right_default.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\tab_right_default.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dg_button_cancel_select.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dg_button_cancel_select.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_orange.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_orange.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_add_pressed.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_menu_add_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_pressed.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\tab_left_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_gray.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_gray.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dg_btn_confirm_normal.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dg_btn_confirm_normal.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\admin_inactivated.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\admin_inactivated.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\act_scanning_03.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\act_scanning_03.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dg_btn_confirm_select.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dg_btn_confirm_select.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_title_default_icon.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\dialog_title_default_icon.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_pressed.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_pressed.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\empty.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\empty.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\first_pressed.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\first_pressed.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_uninstall.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_uninstall.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\function_greenbutton_normal.9.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\function_greenbutton_normal.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_info.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_normal.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_delete_normal.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_5.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_5.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_left_default.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\tab_left_default.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_arrow_up.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\drawer_arrow_up.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue_bkg.jpg",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\blue_bkg.jpg"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\evil.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\evil.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\antispam_report_button_press.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\antispam_report_button_press.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_2.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_2.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\middle_pressed.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\middle_pressed.9.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_3.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\step_3.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_locate_white.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\call_locate_white.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pre.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\pre.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unlock.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child_divider.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "G:\\AS\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu.png",
+        "source": "G:\\AS\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_lock.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\app_lock.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_info.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\first_normal.9.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\first_normal.9.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lock.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header_button_pressed.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\header_button_pressed.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_add_normal.png",
+        "source": "G:\\AndroidStudioProjects\\MobileSafe\\mobileSafe\\src\\main\\res\\drawable-hdpi\\ic_menu_add_normal.png"
+    }
+]
